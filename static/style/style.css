@@ -1,0 +1,25 @@
+body {
+    background-color: #FAFAFA;
+}
+
+@media screen and (min-width: 1200px)
+{
+    .w-75 {
+        width: 15% !important;
+    }
+}
+
+.title-navbar {
+    background-color: #EAEAEA;
+    border-radius: 9px;
+    margin: 10px;
+}
+
+.mini-navbar {
+    background-color: #EAEAEA !important;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
+}
