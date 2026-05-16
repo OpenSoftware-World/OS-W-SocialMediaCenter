@@ -23,3 +23,16 @@ body {
 a {
     text-decoration: none;
 }
+
+.social-links {
+    background-color: #EAEAEA !important;
+    border-radius: 9px;
+}
+
+.mg-10 {
+    margin: 10px;
+}
+
+.mg-50 {
+    margin: 50px;
+}
