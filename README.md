@@ -18,8 +18,8 @@ This project is intended to:
 
 ## 🛠️ Technologies Used
 
-* **Language:** HTML / CSS / JavaScript
-* **Hosting:** GitHub Pages or any static hosting
+* **Language:** HTML / CSS / Python (Flask Framework)
+* **Hosting:** [Render](https://render.com/)
 
 ---
 
@@ -27,10 +27,8 @@ This project is intended to:
 
 ```bash
 OpenSoftware-World-SMC/
-│── index.html      # Main web page
-│── styles/         # CSS files
-│── scripts/        # Optional JS files
-│── images/         # Social media icons or logos
+│── templates/      # Main web page
+│── static/style/   # CSS files
 │── README.md       # Project overview
 ```
 
